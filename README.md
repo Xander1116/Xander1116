@@ -4,6 +4,8 @@
 
 - <b>Microsoft Azure (Compute and Networking)</b>
   - [Azure: Prerequisites and Installation](https://github.com/Xander1116/Azure-Compute-and-Networking/blob/main/README.md)
+
+- <b>osTicket (Help Desk Ticketing System)</b>
  
 <h2>🤳Connect with me:</h2>
 
